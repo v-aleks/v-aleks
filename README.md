@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @v-aleks
+- 👀 I’m interested in chemistry
+- 🌱 I’m currently learning django
+- 📫 How to reach me: tg: @aendra_chem
