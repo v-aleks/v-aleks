@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @v-aleks
-- 👀 I’m interested in chemistry
-- 🌱 I’m currently learning Data Science and ML
+- 👀 I’m interested in AI and ML
 - 📫 How to reach me: tg: @vld_aleks
